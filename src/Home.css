@@ -1,0 +1,298 @@
+.hm{
+    text-align: center;
+    font-weight: 400;
+    font-size: 60px;
+    margin-top: 50px;
+}
+.hm1{
+    font-weight: 400;
+    text-align: center;
+    font-size: 45px;
+}
+.hm2{
+    width: 627px;
+    height: 470px;
+    object-fit: cover;
+    background-size: cover;
+}
+.hm3{
+    display: flex;
+    justify-content: center;
+}
+.hm5{
+    text-align: center;
+    font-weight: 400;
+    font-size: 77px;
+    margin-bottom: 57px;
+    padding-top: 63px;
+}
+.hm7{
+    margin-left: 500px;
+}
+.hm9{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    background-size: cover;
+}
+.hm8{
+    display: flex;
+    margin-left: -257px;
+    width: 1500px;
+}
+.App {
+    width: 97%;
+    height: 100vh;
+    text-align: center;
+    margin-left: 17px;
+}
+.hm10{
+    font-weight: 400;
+    margin-top: 90px;
+    font-size: 40px;
+}
+.hm11{
+    font-size: 18px;
+}
+.hm12{
+    margin-top: 10px;
+}
+.hm13{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.hm14{
+    text-align: center;
+    font-weight: 400;
+    font-size: 67px;
+    margin-top: -100px;
+}
+.hm15{
+    width: 100%;
+    height: 88vh;
+    margin-top: 60px;
+    object-fit: cover;
+    background-size: cover;
+}
+.hm16{
+    display: flex;
+    justify-content: center;
+}
+.hm17{
+    font-weight: 400;
+    margin-top: 135px;
+    margin-left: 145px;
+}
+.hm18{
+    font-weight: 400;
+    font-size: 45px;
+}
+.hm19{
+  font-weight: 400;
+  font-size: 27px;
+}
+.hm20{
+    margin-left: 470px;
+    margin-top: 45px;
+}
+.hm21{
+    width: 500px;
+    height: 527px;
+    object-fit: cover;
+    background-size: cover;
+}
+.hm22{
+    text-align: center;
+    font-weight: 400;
+    font-size: 57px;
+    margin-top: -17px;
+}
+.hm23{
+    width: 1200px;
+    height: 570px;
+    object-fit: cover;
+    background-size: cover;
+}
+.hm24{
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+.hm25{
+    width: 677px;
+    height: 477px;
+    padding-top: 40px;
+    box-shadow: 0 0 4px black;
+    border-radius: 12px;
+    margin-left: 10px;
+    object-fit: cover;
+    background-size: cover;
+}
+.hm26{
+    width: 507px;
+    height: 545px;
+    border-radius: 12px;
+    padding-left: 45px;
+    padding-top: 40px;
+    box-shadow: 0 0 4px black;
+    margin-left: 70px;
+    object-fit: cover;
+    background-size: cover;
+}
+.hm27{
+    text-align: center;
+    font-weight: 400;
+    font-size: 57px;
+    margin-top: 85px;
+}
+.hm28{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+.hm29{
+    text-align: center;
+    font-size: 57px;
+    font-weight: 400;
+    margin-top: 90px;
+}
+.hm30{
+    text-align: center;
+    font-weight: 400;
+    font-size: 57px;
+    margin-bottom: 57px;
+     margin-top: -23px; 
+}
+.hm31{
+    width: 310px;
+    height: 507px;
+    object-fit: cover;
+    background-size: cover;
+}
+.hm32{
+    width: 340px;
+    height: 377px;
+    object-fit: cover;
+    background-size: cover;
+}
+.hm33{
+    width: 390px;
+    height: 377px;
+    object-fit: cover;
+    background-size: cover;
+}
+.hm34{
+    width: 410px;
+    height: 227px;
+    object-fit: cover;
+    background-size: cover;
+}
+.hm35{
+    width: 507px;
+    height: 327px;
+    object-fit: cover;
+    background-size: cover;
+}
+.hm37{
+    width: 470px;
+    height: 317px;
+    object-fit: cover;
+    background-size: cover;
+}
+.hm38{
+    width: 507px;
+    height: 477px;
+    position: relative;
+    top: 70px;
+    object-fit: cover;
+    background-size: cover;
+}
+.hm39{
+    text-align: center;
+    font-weight: 400;
+    font-size: 57px;
+    margin-top: 140px;
+}
+.hm42{
+    font-size: 37px;
+}
+.hm41{
+    width: 74px;
+    height: 74px;
+    padding-left: 17px;
+    padding-top: 13px;
+    border-radius: 50%;
+    transition: 0.4s;
+    cursor: pointer;
+    border: 1px solid rgb(0, 0, 0)
+}
+.hm41:hover{
+    box-shadow: 0 0 7px black;
+}
+.hm40{
+    display: flex;
+    justify-content: center;
+    margin-top: 35px;
+}
+.hm43{
+    width: 100%;
+    height: 97vh;
+    margin-top: 70px;
+    background-color: #f5f5f7;
+}
+.hm45{
+    display: flex;
+}
+.hm46{
+    font-weight: 400;
+    margin-left: 70px;
+    padding-top: 40px;
+}
+.hm47{
+    margin-left: 71px;
+    font-weight: 400;
+}
+.hm48{
+    margin-left: 71px;
+}
+.hm49{
+    font-weight: 400;
+    margin-left: 71px;
+    margin-top: 7px;
+}
+.hm50{
+    font-weight: 400;
+    padding-top: 37px;
+}
+.hm51{
+    font-weight: 400;
+}
+.hm52{
+    margin-left: 85px;
+}
+.hm53{
+    margin-top: 7px;
+    font-weight: 400;
+}
+.hm54{
+    font-weight: 400;
+    margin-top: 7px;
+}
+.hma{
+    background-color: black;
+    width: 100%;
+    height: 657px;
+}
+.hma2{
+       margin-left: 270px; 
+       margin-top: 30px;
+       height: 420px;
+}
+.hma3{
+    color: white;
+    text-align: center;
+    font-size: 67px;
+    padding-top: 45px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}

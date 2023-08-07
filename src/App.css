@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+.navbar{
+  height: 100px;
+  position: sticky;
+  top: 0;
+  padding-left: 50px;
+  box-shadow: 0 0 12px black;
+  padding-top: 33px;
+  background-color: #181818;
+  z-index: 99;
+}
+.navbar a{
+  color: white;
+  text-decoration: none;
+  margin-left: 40px;
+  font-size: 21px;
+  position: relative;
+   bottom: 29px; 
+}
+.navbar a:hover{
+  font-weight: 900;
+}
+.path{
+  margin-left: 110px;
+}
+.appimg1{
+  width: 260px;
+  height: 77px;
+   margin-top: -20px; 
+  object-fit: cover;
+  padding-left: 40px;
+  background-size: cover;
+}
